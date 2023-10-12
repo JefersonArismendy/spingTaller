@@ -1,0 +1,7 @@
+server:
+  servlet:
+    context-path: /api/spring/poli
+  port: 9081
+spring:
+  profiles:
+    active: dev
